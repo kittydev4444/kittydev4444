@@ -7,7 +7,7 @@ Frontend web developer
 Loading...
 
 * 🌍  I'm based in 100% Remote
-* 🖥️  See my portfolio at [FourSqweez](http://https://foursqweez-portfolio.netlify.app/)
+* 🖥️  See my portfolio at [FourSqweez](https://foursqweez-portfolio.netlify.app/)
 * ✉️  You can contact me at [jeerasak.code@gmail.com](mailto:jeerasak.code@gmail.com)
 * 🧠  I'm learning UX/UI Design, Backend, Web3
 * 🤝  I'm open to collaborating on Next js project, Frontend web3 project
