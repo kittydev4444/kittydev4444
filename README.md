@@ -28,4 +28,4 @@ Loading...
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/FourSqweez"><img src="https://github-readme-stats.vercel.app/api?username=FourSqweez&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="FourSqweez's GitHub stats" /></a>
+<a href="http://www.github.com/FourSqweez"><img src="https://github-readme-stats.vercel.app/api?username=FourSqweez&show_icons=true&hide=stars,prs,issues,contribs&title_color=22c55e&text_color=14b8a6&icon_color=22c55e&bg_color=181824&hide_border=true&show_icons=true" alt="FourSqweez's GitHub stats" /></a>
