@@ -4,7 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend web developer
 ----------------------
 
-Loading...
+I'm a **Frontend Developer** with **2+ years of experience**, passionate about building modern web applications with **Next.js, TypeScript, and Tailwind CSS**.  
+
+🚀 **Open to remote opportunities** – Looking for a team where I can contribute to **scalable, high-performance UIs** while growing as a developer.  
+
+💡 Exploring **Web3 frontend development**, focusing on **connecting dApps to smart contracts** on Ethereum and Solana.  
 
 * 🌍  I'm based in 100% Remote
 * 🖥️  See my portfolio at [FourSqweez](https://foursqweez-portfolio.netlify.app/)
