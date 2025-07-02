@@ -11,7 +11,7 @@ I'm a **Frontend Developer** with **2+ years of experience**, passionate about b
 💡 Exploring **Web3 frontend development**, focusing on **connecting dApps to smart contracts** on Ethereum and Solana.  
 
 * 🌍  I'm based in 100% Remote
-* 🖥️  See my portfolio at [KittyDev](https://portfolio-jeerasak.vercel.app/)
+* 🖥️  See my portfolio at [KittyDev](https://portfolio-kittydev.vercel.app/)
 * ✉️  You can contact me at [jeerasak.code@gmail.com](mailto:jeerasak.code@gmail.com)
 * 🧠  I'm learning UX/UI Design, Backend, Web3
 * 🤝  I'm open to collaborating on Next js project, Frontend web3 project
